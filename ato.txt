@@ -1,0 +1,18 @@
+
+
+Media De Gols Geral = Soma de resultados de Todos os jogos entre JogadorA e JogadorB / pela quantidade de jogos (OK)
+
+Ultimos 7 dias = Soma de resultados de Todos os jogos entre JogadorA e JogadorB / pela quantidade de jogos
+Ultimos 10 Jogos = Soma de resultados de Todos os jogos entre JogadorA e JogadorB / pela quantidade de jogos
+
+# Obs o jogadorA e JogadorB com os mesmos times
+Media com Estes Times = Soma de resultados de Todos os jogos entre JogadorA e JogadorB / pela quantidade de jogos (ok)
+
+
+percentual em que Ambos Marcam = totalDeAmbasMarcam / totalDejogos
+
+percentual em que casa = totalDeCasaVence / totalDejogos
+
+percentual em que Visitante Marcam = totalDeForal / totalDejogos
+
+
